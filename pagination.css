@@ -1,0 +1,24 @@
+.pagination a.active, .pagination a:hover {
+  background: #007ca4 none repeat scroll 0 0;
+  color: #fff;
+  text-decoration: none;
+}
+.pagination a.active {
+  cursor: default;
+}
+.pagination a {
+  border-radius: 2px;
+  float: left;
+  font: 700 16px/16px "Arial";
+  margin-left: 5px;
+  overflow: hidden;
+  padding: 5px 10px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #007ca4;
+}
+.pagination a.active, .pagination a:hover {
+  background: #007ca4 none repeat scroll 0 0;
+  color: #fff;
+  text-decoration: none;
+}
